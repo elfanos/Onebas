@@ -1,0 +1,27 @@
+
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+   border-width: 0px;
+   -webkit-box-shadow: 0px 0px;
+   box-shadow: 0px 0px;
+   background-color: rgba(0,0,0,0.0);
+   background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+   background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+   background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+}
+.container{
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgba(39,43,48,0.2);
+}
+
+.logo {
+    width: 150px;
+    overflow: hidden;
+    margin: -7px 0 0 ;
+}
+
+.logo img{
+  width: 100px;
+  height: 30px;
+}
